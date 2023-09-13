@@ -1,0 +1,143 @@
+/* Card container styles */
+.card-container {
+    /* margin-top: 10%;
+    margin-left: 40%; */
+    /* scale: 0.9; */
+    border-radius: 24px;
+    width: 280px;
+    transition: 0.2s;
+    flex: 0 0 25%;
+    max-width: 280px;
+    position: relative;
+    min-height: 480px;
+    max-height: 480px;
+
+    /* padding: auto; */
+    display: block;
+    background-color: rgba(224, 224, 224, 0.62);
+    /* padding: 20px 20px; */
+    /* margin: 200px 20px; */
+    box-shadow: 0 8px 16px 0 rgba(143, 143, 143, 0.2);
+}
+  
+  /* Card styles */
+  .card {
+    /* scale: 0.8; */
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+  }
+  
+  /* Photo container styles */
+  .photo-container {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    border-radius: 24px;
+    overflow: hidden;
+    /* scale: 0.9; */
+    border: 3px solid orange;
+
+    max-width: 280px;
+    min-height: 280px;
+    max-height: 280px;
+  }
+  
+  /* Photo styles */
+  .photo {
+    
+    /* background-size: cover; */
+    object-fit: contain;
+    height: 100%;
+    width: 100%;
+    scale: 1.2;
+    height: auto;
+    transition: transform 0.3s ease;
+  }
+  
+  /* Hover effect for the card and photo */
+  /* .card-container:hover .photo-container , */
+  .card-container:hover .card 
+  {
+    transition: 0.4s;
+    transform: scale(1.15);
+    translate: 0 -5px;
+    border-radius: 24px;
+    /* translate: 0px -10px; */
+  }
+  
+
+
+  /* .card-container:hover .photo {
+    transform: scale(1.2);
+  } */
+  
+  /* Content styles (name and socials) */
+  .content {
+    text-align: center;
+    padding: 15px;
+    /* margin-bottom: 100px; */
+  }
+
+  #position {
+    text-transform: uppercase;
+  }
+  
+  /* Social icons styles (adjust these as needed) */
+  .socials {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+
+  }
+  
+  .socials li {
+    margin: 18px 10px 0px 10px;
+  }
+  
+  .socials a {
+    color: #333;
+    text-decoration: none;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    padding: 6px 8px 1px 8px;
+    border-radius: 12px;
+  }
+  
+  .socials a:hover {
+    background: rgba(255, 220, 181, 0.72);
+    /* border: 2px solid orange; */
+  }
+
+  /* fonts */
+
+#name {
+    margin-top: 8px;
+    font-size: 1.75rem;
+    /* font-size: 1.35vw; */
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    margin-bottom: 12px;
+    letter-spacing: -0.2;
+}
+
+#position {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-top: 0;
+    color: rgba(80, 80, 80, 0.8);
+}
+
+@media screen and (max-width:769px){
+    .card-container {
+        /* margin-top: 10%;
+        margin-left: 12%; */
+        /* scale: 0.6; */
+        /* transform: scale(0.6), */
+    }
+
+
+}
+  

@@ -1,0 +1,43 @@
+.headerPlusCards {
+    width: 90%;
+    text-align: left;
+    /* display: inline-block; */
+    /* margin: 0 10%; */
+    /* margin-right: 5%; */
+    margin-left: 10%;
+    /* margin-bottom: 100px; */
+    /* background-color: azure; */
+}
+
+.headerTeams {
+    display: flex;
+    justify-content: center;
+    font-size: clamp(20px,1.5vw + 0.1rem , 70px);
+    margin-bottom: 0;
+    letter-spacing: -0.2;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.headerPlusCards h1 {
+    color: orange;
+    font-weight: 800;
+    margin: 0;
+    /* font-size: larger; */
+    padding: 72px 0 24px 0;
+}
+
+/* .headers {
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 80%;
+    text-align: left;
+}
+
+.headers h1 {
+    font-family: 'Inter', sans-serif;
+} */
+
+.cards > .card-container {
+    display: inline-block;
+    margin: 32px 24px;
+}

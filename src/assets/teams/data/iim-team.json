@@ -1,0 +1,225 @@
+{
+  "chairman": {
+    "0": {
+      "name": "Valasa Siri Chandra",
+      "position": "Chairperson",
+      "mail": "ms20btech11025@iith.ac.in",
+      "image": "../assets/teams/sirichandra.jpg",
+      "linkedin": "https://www.linkedin.com/in/sirichandravalasa/"
+    }
+  },
+  "vice-chairman": {
+    "0": {
+      "name": "Ambe Radha",
+      "position": "Vice-Chairperson",
+      "mail": "ms21resch11004@iith.ac.in",
+      "image": "../assets/teams/amberadha.jpg",
+      "linkedin": "https://www.linkedin.com/in/radha-ambe-6766bb1b7/-"
+    }
+  },
+  "treasurer": {
+    "0": {
+      "name": "Akhil Antony Sebastian",
+      "position": "Treasurer",
+      "mail": "ms20btech11001@iith.ac.in",
+      "image": "../assets/teams/akhil.jpg",
+      "linkedin": "https://www.linkedin.com/in/akhil-antony-sebastian-207960200/-"
+    }
+  },
+  "secretary": {
+    "0": {
+      "name": "Vikram Soni",
+      "position": "Secretary",
+      "mail": "ms21btech11026@iith.ac.in",
+      "image": "../assets/teams/vikram.jpg",
+      "linkedin": "https://www.linkedin.com/in/vikram-soni-97baa4253/"
+    }
+  },
+  "heads": {
+    "0": {
+      "name": "Anubhav Singh",
+      "position": "Public Relations Head",
+      "mail": "ms21btech11008@iith.ac.in",
+      "image": "../assets/teams/anubhav.jpg",
+      "linkedin": "https://www.linkedin.com/in/anubhav-singh-46b344268/-"
+    },
+    "1": {
+      "name": "Avantika Vadtile",
+      "position": "Public Relations Head",
+      "mail": "ms21btech11030@iith.ac.in",
+      "image": "../assets/teams/avantika.jpg",
+      "linkedin": "https://www.linkedin.com/in/avantika-vadtile-a29b7722a/"
+    },
+    "2": {
+      "name": "Amandeep Saha",
+      "position": "Sponsorship Head",
+      "mail": "ms21btech11006@iith.ac.in",
+      "image": "../assets/teams/amandeep.jpg",
+      "linkedin": "https://www.linkedin.com/in/amandeep-saha-7baa4222a/-"
+    },
+    "3": {
+      "name": "Dhanushikaa S",
+      "position": "Events Head",
+      "mail": "ms21btech11014@iith.ac.in",
+      "image": "../assets/teams/dhanushikaa.jpg",
+      "linkedin": "https://www.linkedin.com/in/dhanushikaa-s-482aa726a/"
+    },
+    "4": {
+      "name": "Geetha Bhavana",
+      "position": "Events Head",
+      "mail": "ms21btech11019@iith.ac.in",
+      "image": "../assets/teams/geetha.jpg",
+      "linkedin": "https://www.linkedin.com/in/sai-geetha-bhavana-korrapati-3a425417b/"
+    },
+    "5": {
+      "name": "Aashish Mandavi",
+      "position": "Membership Head",
+      "mail": "ms21btech11001@iith.ac.in",
+      "image": "../assets/teams/aashish.jpg",
+      "linkedin": "https://www.linkedin.com/in/aashish-mandavi-64310922b/"
+    }
+  },
+  "pr-team": {
+    "0": {
+      "name": "Parth Bedarkar",
+      "position": "PR Team",
+      "mail": "ms22btech11019@iith.ac.in",
+      "image": "../assets/teams/parth.jpg",
+      "linkedin": "https://www.linkedin.com/in/parth-bedarkar-6855991b9/-"
+    },
+    "1": {
+      "name": "Dasari Ram Vasanth",
+      "position": "PR Team",
+      "mail": "ms22btech11011@iith.ac.in",
+      "image": "../assets/teams/ram.jpg",
+      "linkedin": "https://www.linkedin.com/in/ram-vasanth-dasari-2852b4265/"
+    },
+    "2": {
+      "name": "Satyam Verma",
+      "position": "PR Team",
+      "mail": "ms22btech11022@iith.ac.in",
+      "image": "../assets/teams/satyam.jpg",
+      "linkedin": "https://www.linkedin.com/in/satyam-verma-495708250/"
+    },
+    "3": {
+      "name": "Rishitha Reddy",
+      "position": "PR Team",
+      "mail": "ms22btech11024@iith.ac.in",
+      "image": "../assets/teams/rishitha.jpg",
+      "linkedin": "https://www.linkedin.com/in/rishitha-reddy-915335255/"
+    }
+  },
+  "sponsorship-team": {
+    "0": {
+      "name": "Tanishq Bhattacharjee",
+      "position": "Sponsorship Team",
+      "mail": "ms22btech11027@iith.ac.in",
+      "image": "../assets/teams/tanishq.jpg",
+      "linkedin": "https://www.linkedin.com/in/tanishq-bhattacharjee-61a006252/"
+    },
+    "1": {
+      "name": "Lakshya Soni",
+      "position": "Sponsorship Team",
+      "mail": "ms22btech11015@iith.ac.in",
+      "image": "../assets/teams/lakshya.jpg",
+      "linkedin": "https://www.linkedin.com/in/lakshya-soni-9359b5232/-"
+    },
+    "2": {
+      "name": "Omkar Khilari",
+      "position": "Sponsorship Team",
+      "mail": "ms22btech11018@iith.ac.in",
+      "image": "../assets/teams/omkar.jpg",
+      "linkedin": "https://www.linkedin.com/in/omkar-khilari-26697b261/-"
+    },
+    "3": {
+      "name": "Yash Sonawane",
+      "position": "Sponsorship Team",
+      "mail": "ms22btech11025@iith.ac.in",
+      "image": "../assets/teams/yash.jpg",
+      "linkedin": "https://www.linkedin.com/in/yash-sonawane-a3ba5a273/"
+    }
+  },
+  "events-team": {
+    "0": {
+      "name": "Akshat Jain",
+      "position": "Events Team",
+      "mail": "ms22btech11005@iith.ac.in",
+      "image": "../assets/teams/akshat.jpg",
+      "linkedin": "https://www.linkedin.com/in/akshat-jain-404746254/"
+    },
+    "1": {
+      "name": "Harini Kovoori",
+      "position": "Events Team",
+      "mail": "ms22btech11014@iith.ac.in",
+      "image": "../assets/teams/harini.jpg",
+      "linkedin": "https://linkedin.com/in/xyz"
+    },
+    "2": {
+      "name": "Anand Prakash",
+      "position": "Events Team",
+      "mail": "ms22btech11006@iith.ac.in",
+      "image": "../assets/teams/anand.jpg",
+      "linkedin": "https://linkedin.com/in/xyz"
+    },
+    "3": {
+      "name": "Harshini Dongarwar",
+      "position": "Events Team",
+      "mail": "ms22btech11013@iith.ac.in",
+      "image": "../assets/teams/harshini.jpg",
+      "linkedin": "https://www.linkedin.com/in/harshini-dongarwar-9a21a4254/"
+    },
+    "4": {
+      "name": "Vardhan Kumar",
+      "position": "Events Team",
+      "mail": "ms22btech11016@iith.ac.in",
+      "image": "../assets/teams/vardhan.jpg",
+      "linkedin": "https://www.linkedin.com/in/mekala-vardhan-kumar-838092264/-"
+    }
+  },
+  "membership-team": {
+    "0": {
+      "name": "Vineeth Vanukuru",
+      "position": "Membership Team",
+      "mail": "ms22btech11029@iith.ac.in",
+      "image": "../assets/teams/vineeth.jpg",
+      "linkedin": "https://www.linkedin.com/in/vineeth-vanukuru-003935283/"
+    },
+    "1": {
+      "name": "Syed Furqan Bukhari",
+      "position": "Membership Team",
+      "mail": "id22resch11008@iith.ac.in",
+      "image": "../assets/teams/furqan.jpg",
+      "linkedin": "https://www.linkedin.com/in/syed-furqan-bukhari-a56135231/"
+    }
+  },
+  "web-team": {
+    "0": {
+      "name": "Omkar Khilari",
+      "position": "Web Dev Team",
+      "mail": "ms22btech11018@iith.ac.in",
+      "image": "../assets/teams/omkar.jpg",
+      "linkedin": "https://www.linkedin.com/in/omkar-khilari-26697b261/-"
+    },
+    "1": {
+      "name": "Bhaskar Mandal",
+      "position": "Web Dev Team",
+      "mail": "ms22btech11010@iith.ac.in",
+      "image": "../assets/teams/bhaskar.jpg",
+      "linkedin": "https://www.linkedin.com/in/bhaskaraa45/"
+    },
+    "2": {
+      "name": "Tejasri Relangi",
+      "position": "Web Dev Team",
+      "mail": "ms22btech11019@iith.ac.in",
+      "image": "../assets/teams/tejasri.jpg",
+      "linkedin": "https://www.linkedin.com/in/rtejasri/"
+    },
+    "3": {
+      "name": "Sarthak Saw",
+      "position": "Web Dev Team",
+      "mail": "ms21btech11025@iith.ac.in",
+      "image": "../assets/teams/sarthak.jpg",
+      "linkedin": "https://www.linkedin.com/in/sarthak-saw-329076240/"
+    }
+  }
+}
