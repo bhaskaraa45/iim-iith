@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/iim-iith/static/css/main.f395303c.css",
+    "main.js": "/iim-iith/static/js/main.584bb6bb.js",
+    "static/js/787.f9563a7e.chunk.js": "/iim-iith/static/js/787.f9563a7e.chunk.js",
+    "static/media/akhil.jpg": "/iim-iith/static/media/akhil.53f1b24f50ec7cb38e55.jpg",
+    "static/media/geetha.jpg": "/iim-iith/static/media/geetha.c9cb88a2f3d97e14a8b9.jpg",
+    "static/media/parth.jpg": "/iim-iith/static/media/parth.1ac18411d516a5314097.jpg",
+    "static/media/sirichandra.jpg": "/iim-iith/static/media/sirichandra.64bde269720e9fbf5370.jpg",
+    "static/media/akshat.jpg": "/iim-iith/static/media/akshat.991e039806307faf43e9.jpg",
+    "static/media/anubhav.jpg": "/iim-iith/static/media/anubhav.271e31458fe043421e05.jpg",
+    "static/media/dhanushikaa.jpg": "/iim-iith/static/media/dhanushikaa.09073008816fefe96717.jpg",
+    "static/media/amberadha.jpg": "/iim-iith/static/media/amberadha.7ae6e1ade8d9c2b3cad9.jpg",
+    "static/media/aashish.jpg": "/iim-iith/static/media/aashish.69de0e7d33672e25f344.jpg",
+    "static/media/furqan.jpeg": "/iim-iith/static/media/furqan.193bfdb8b56759a2a582.jpeg",
+    "static/media/yash.jpg": "/iim-iith/static/media/yash.1bad20e7b7f0c69baae9.jpg",
+    "static/media/vikram.jpg": "/iim-iith/static/media/vikram.8f3b89e3badf4c6d095a.jpg",
+    "static/media/horzlogolong.png": "/iim-iith/static/media/horzlogolong.d713991ca9c59932ef66.png",
+    "static/media/avantika.jpg": "/iim-iith/static/media/avantika.5b96c7ddffc7e6e11a4b.jpg",
+    "static/media/bhaskar.jpeg": "/iim-iith/static/media/bhaskar.abb24cf3bed0c6cca1e0.jpeg",
+    "static/media/amandeep.jpeg": "/iim-iith/static/media/amandeep.4fd25ad88405c1d579de.jpeg",
+    "static/media/tejasri.jpeg": "/iim-iith/static/media/tejasri.8bcc135d903152d57df2.jpeg",
+    "static/media/ashoksir.jpeg": "/iim-iith/static/media/ashoksir.ac1b333512ac9290244f.jpeg",
+    "static/media/iith_logo.png": "/iim-iith/static/media/iith_logo.a42abbbe43751cfce05c.png",
+    "static/media/harshini.jpg": "/iim-iith/static/media/harshini.1b3fa8cc0506c73f9d63.jpg",
+    "static/media/omkar.jpeg": "/iim-iith/static/media/omkar.181b55e46dd2564a23bc.jpeg",
+    "static/media/satyam.jpg": "/iim-iith/static/media/satyam.ceced6cdb39464961991.jpg",
+    "static/media/harini.jpeg": "/iim-iith/static/media/harini.3167ff2d0d4ed905d395.jpeg",
+    "static/media/vineeth.jpeg": "/iim-iith/static/media/vineeth.cdb3ad8cb87827c5be9a.jpeg",
+    "static/media/tanishq.jpg": "/iim-iith/static/media/tanishq.0cf2897435736d3cc786.jpg",
+    "static/media/ram.jpg": "/iim-iith/static/media/ram.76cdb33ccb5e9a3295e8.jpg",
+    "static/media/lakshya.jpg": "/iim-iith/static/media/lakshya.2f821ea5d0825304df51.jpg",
+    "static/media/iim_logo_without_bg.gif": "/iim-iith/static/media/iim_logo_without_bg.341ea7d71df249d3c8ea.gif",
+    "index.html": "/iim-iith/index.html",
+    "main.f395303c.css.map": "/iim-iith/static/css/main.f395303c.css.map",
+    "main.584bb6bb.js.map": "/iim-iith/static/js/main.584bb6bb.js.map",
+    "787.f9563a7e.chunk.js.map": "/iim-iith/static/js/787.f9563a7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f395303c.css",
+    "static/js/main.584bb6bb.js"
+  ]
+}
