@@ -1,10 +1,11 @@
 .headerPlusCards {
-    width: 90%;
-    text-align: left;
+    /* width: 100%; */
+    align-items: center;
+    text-align: center;
     /* display: inline-block; */
     /* margin: 0 10%; */
     /* margin-right: 5%; */
-    margin-left: 10%;
+    /* margin-left: 10%; */
     /* margin-bottom: 100px; */
     /* background-color: azure; */
 }
@@ -16,14 +17,19 @@
     margin-bottom: 0;
     letter-spacing: -0.2;
     font-family: 'Libre Baskerville', serif;
+    font-weight: bold;
 }
 
 .headerPlusCards h1 {
+    display: flex;
+    justify-content: center;
     color: orange;
-    font-weight: 800;
-    margin: 0;
-    /* font-size: larger; */
-    padding: 72px 0 24px 0;
+    font-weight: 900;
+    font-size: clamp(20px,1.7vw + 0.1rem , 70px);
+    padding: 24px 0 6px 0;
+    letter-spacing: -0.2;
+    font-family: 'Libre Baskerville', serif;
+
 }
 
 /* .headers {
@@ -39,5 +45,5 @@
 
 .cards > .card-container {
     display: inline-block;
-    margin: 32px 24px;
+    /* margin: 32px 24px; */
 }

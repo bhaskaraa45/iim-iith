@@ -8,8 +8,8 @@ function Card(props) {
   return (
     <>
       {props.details.map((value) => (
-        <div className="card-container">
-          <div className="card" id="photo_card">
+        <div className="card-container" data-aos="fade-up">
+          <div className="card" id="photo_card" >
             {/* picture of person */}
             <div className="photo-container">
               <img src={value.image} alt="Person's Image" className="photo" />
@@ -38,7 +38,7 @@ function Card(props) {
               </li>
 
               <li className="mail">
-                <a target="_blank" href={value.mail}>
+                <a target="_blank" href= {`mailto:${value.mail}`}>
                   <i className="fa fa-envelope">
                     {/* ::before */}
                     <svg

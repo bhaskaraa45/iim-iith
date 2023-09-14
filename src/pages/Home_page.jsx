@@ -1,6 +1,6 @@
 import Navbar from '../components/Navbar'
 import '../styles/home.css';
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { TypeAnimation } from 'react-type-animation';
 
 function Home() {
@@ -8,7 +8,6 @@ function Home() {
   const [chalu, setChalu] = useState(false);
 
   const changeBackground = () => {
-    console.log(window.scrollY);
     if (window.scrollY >= 90) {
       setChalu(true);
     } else {
@@ -18,14 +17,9 @@ function Home() {
 
   window.addEventListener('scroll', changeBackground);
 
-  const val = "IITH";
   return (
     <div>
-      <div className={chalu ? 'navbar chalu' : 'navbar'}>
-        <Navbar></Navbar>
-      </div>
       <div className='image'>
-        {/* <img src='https://images.unsplash.com/photo-1664215490963-a5cfd0c301dc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80'  */}
         <h2 className='iit-hyd'>
           LOREM HEADING
         </h2>

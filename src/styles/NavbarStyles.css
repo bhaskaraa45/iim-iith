@@ -22,7 +22,7 @@ nav{
     display: inline-block;
     border-left: 1px solid gray;
     margin: 0 8px;
-    height: 64px;
+    height: 48px;
 }
 
 .iimLogo {
@@ -33,10 +33,10 @@ nav{
     padding-top: 4px;
 }
 
-/* nav.chalu{
+nav{
     background: rgb(255, 220, 181);
     box-shadow: 0 0 10px 0 rgb(123, 123, 123);
-} */
+}
 
 
 .navBar{
@@ -53,21 +53,24 @@ nav{
     position: relative;
 }
 
-
+#navigation{
+    background-color: transparent;
+    box-shadow: none;
+}
 
 .navBar li a{
     text-decoration: none;
-    color: white;
+    color: black;
     font-size: 1.3rem ;
     font-weight: 500;
     transition: 0.2s ease-in-out;
 }
-#scrolled li a{
-    color: black;
+#notScrolled li a{
+    color: white;
 }
 
-#scrolled li a:hover,
-#scrolled li a.active
+#notScrolled li a:hover,
+#notScrolled li a.active
 {
     color: orange;
 }
@@ -90,10 +93,12 @@ nav{
 /* .navBar li a{
     color: white;
 } */
+.navbag{
+    color: transparent;
+}
 
 
-
-#phone{
+.phone{
     display: none;
 }
 .mobile{
@@ -121,8 +126,8 @@ nav{
         align-items: flex-start;
         justify-content: flex-start;
         position: fixed;
-        top: 50px;
-        right: -300px;
+        top: 38px;
+        right: -600px;
         width: 300px;
         height: 100vh;
         background-color: rgb(255, 220, 181);
@@ -138,11 +143,11 @@ nav{
         margin-bottom: 25px;
     }
 
-    #phone{
+    .phone{
         display: block;
     }
 
-    #phone i{
+    .phone i{
         font-size: 24px;
         cursor: pointer;
     }
@@ -155,6 +160,17 @@ nav{
     nav{
         padding: 8px 15px;
     }
+    .navBar li a{
+        color: black;
+    }
+    #notScrolled li a{
+        color: black;
+    }
+    #bar{
+        padding: 7px ;
+    }
+    
+
 
 }
 
