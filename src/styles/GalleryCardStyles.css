@@ -1,0 +1,38 @@
+/* .photoContainer {
+    border-radius: 100px;
+    width: 280px;
+    transition: 0.2s;
+    flex: 0 0 25%;
+    max-width: 280px;
+    position: relative;
+    min-height: 400px;
+    max-height: 400px;
+
+    /* padding: auto; 
+    display: block;
+} */
+
+.galleryStyles{
+    /* display: flex; */
+    display: flex;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+    object-fit: cover;
+    /* scale: 0.9; */
+    /* border: 3px solid orange; */
+
+    max-width: 200px;
+    min-height: 200px;
+    max-height: 200px;
+    border: 1px solid;
+}
+
+.gallery{
+    object-fit: contain;
+    /* margin: 72px; */
+    height: 100%;
+    width: 100%;
+    scale: 1.15;
+    transition: transform 0.3s ease;
+}

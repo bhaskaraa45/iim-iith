@@ -1,0 +1,8 @@
+.galleryPage {
+    align-items: center;
+    text-align: center;
+}
+
+.galleryCard > .galleryStyles {
+    display: inline-block;
+}
