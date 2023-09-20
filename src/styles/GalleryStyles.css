@@ -3,6 +3,15 @@
     text-align: center;
 }
 
+.allPhotosBtn {
+    background: none;
+    border: none;
+    color: orange;
+    font-size: clamp(20px,1.5vw + 0.1rem , 70px);
+    text-decoration: underline;
+    cursor: pointer;
+}
+
 .galleryCard > .galleryStyles {
     display: inline-block;
 }

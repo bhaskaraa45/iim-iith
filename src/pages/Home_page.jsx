@@ -1,21 +1,7 @@
-import Navbar from '../components/Navbar'
 import '../styles/home.css';
-import React, { useState } from 'react';
 import { TypeAnimation } from 'react-type-animation';
 
 function Home() {
-
-  const [chalu, setChalu] = useState(false);
-
-  const changeBackground = () => {
-    if (window.scrollY >= 90) {
-      setChalu(true);
-    } else {
-      setChalu(false);
-    }
-  };
-
-  window.addEventListener('scroll', changeBackground);
 
   return (
     <div>
@@ -52,4 +38,4 @@ function Home() {
   )
 }
 
-export default Home
+export default Home;
